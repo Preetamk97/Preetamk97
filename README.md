@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on **creating Robotics Simulations with the helps of ROS2, Gazebo and Navigation2 Stack**<br>👯 I’m looking to collaborate on **all kinds of Robotics Projects**<br>🌱 I’m currently learning **anything and everything that is required to become a great Roboticist (specifically focusing on ROS2 and creating Gazebo Simulations)**<br>💬 Ask me about **ROS2 and creating Gazebo and Ignition Gazebo Simulations**<br>⚡ Fun fact : **I am fairly good with Programming and Mathematics and but suck at Physics!**
+🔭 I’m currently working on **creating Robotics Simulations with the helps of ROS2, Gazebo and Navigation2 Stack**
+<br><br>
+👯 I’m looking to collaborate on **all kinds of Robotics Projects**
+<br><br>
+🌱 I’m currently learning **anything and everything that is required to become a great Roboticist (specifically focusing on ROS2 and creating Gazebo Simulations)**
+<br><br>
+💬 Ask me about **ROS2 and creating Gazebo and Ignition Gazebo Simulations**
+<br><br>
+⚡ Fun fact : **I am fairly good with Programming and Mathematics and but suck at Physics!**
 
 
 # 💻 Tech Stack:
